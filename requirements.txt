@@ -1,2 +1,6 @@
 не зачет
+<<<<<<< HEAD
 changes from feature1
+=======
+changes from feature2
+>>>>>>> feature2
